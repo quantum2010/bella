@@ -1,3 +1,5 @@
 este es el cuento de la princesa bella.
 Esta es la primera entrada del cuento.
+ahora escribiremos otra cosa para que se generen cambios importantes.
+ahora que ya estamos entendiendo lo que hace git pues es hora de jugar un rato, lo malo es que ya me canse
 
